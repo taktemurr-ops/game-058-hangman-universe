@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_058_hangman_universe/core/level_plan.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_058_hangman_universe/game/hangman_engine.dart';
 import 'package:game_058_hangman_universe/game/rules.dart';
 import 'package:game_058_hangman_universe/game/word_kit.dart';

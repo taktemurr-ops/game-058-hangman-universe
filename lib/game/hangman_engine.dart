@@ -1,5 +1,5 @@
-import '../core/level_plan.dart';
-import '../core/rng.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
 import 'word_kit.dart';
 
 /// Hangman: guess the hidden word letter by letter before the lives run out.
